@@ -11,10 +11,10 @@
     
     <!-- Repos -->
     <!-- Device -->
-    <project path="device/motorola/bangkk" name="device_motorola_bangkk" remote="bangkk" revision="lineage-24.0" clone-depth="1" />
+    <project path="device/motorola/bangkk" name="device_motorola_bangkk" remote="bangkk" revision="clover-17.0" clone-depth="1" />
 
     <!-- Device common -->
-    <project path="device/motorola/sm6375-common" name="device_motorola_sm6375-common" remote="bangkk" revision="lineage-24.0" clone-depth="1" />
+    <project path="device/motorola/sm6375-common" name="device_motorola_sm6375-common" remote="bangkk" revision="clover-17.0" clone-depth="1" />
 
     <!-- Vendor -->
     <project path="vendor/motorola/bangkk" name="vendor_motorola_bangkk" remote="bangkk" revision="lineage-24.0" clone-depth="1" />
@@ -26,7 +26,7 @@
     <project path="kernel/motorola/sm6375" name="kernel_motorola_sm6375" remote="bangkk" revision="lineage-24.0" clone-depth="1" />
 
     <!-- Hardware motorola -->
-    <project path="hardware/motorola" name="hardware_motorola" remote="bangkk" revision="lineage-24.0" clone-depth="1" />
+    <project path="hardware/motorola" name="hardware_motorola" remote="bangkk" revision="clover-17.0" clone-depth="1" />
 
     <!-- Hardware dolby -->
     <project path="hardware/dolby" name="hardware_dolby" remote="bangkk" revision="main" clone-depth="1" />
