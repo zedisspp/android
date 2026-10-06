@@ -11,7 +11,7 @@
     
     <!-- Repos -->
     <!-- Device -->
-    <project path="device/motorola/bangkk" name="device_motorola_bangkk" remote="bangkk" revision="lineage-24.0" clone-depth="1" />
+    <project path="device/motorola/bangkk" name="device_motorola_bangkk" remote="bangkk" revision="bluenixx-17.0" clone-depth="1" />
 
     <!-- Device common -->
     <project path="device/motorola/sm6375-common" name="device_motorola_sm6375-common" remote="bangkk" revision="lineage-24.0" clone-depth="1" />
